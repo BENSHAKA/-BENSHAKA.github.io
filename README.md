@@ -1,2 +1,2 @@
-# -BENSHAKA.github.io
+# BENSHAKA.github.io
 个人博客
